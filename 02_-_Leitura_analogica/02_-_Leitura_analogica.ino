@@ -14,7 +14,7 @@ void loop() {
   //Lê o pino de entrada
   leituraPino = analogRead(pinoEntrada);
 
-  //Informa o resultado da leitura pela porta serial;
+  //Informa o resultado da leitura pela porta serial
   Serial.println(leituraPino);
 
   //Delay de 0,5s
