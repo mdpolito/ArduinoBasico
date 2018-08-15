@@ -1,0 +1,9 @@
+C:\Users\marce\onedrive\documentos\visual studio 2010\Projects\SerialArduino\SerialArduino\bin\Debug\SerialArduino.exe
+C:\Users\marce\onedrive\documentos\visual studio 2010\Projects\SerialArduino\SerialArduino\bin\Debug\SerialArduino.pdb
+C:\Users\marce\onedrive\documentos\visual studio 2010\Projects\SerialArduino\SerialArduino\bin\Debug\SerialArduino.xml
+C:\Users\marce\onedrive\documentos\visual studio 2010\Projects\SerialArduino\SerialArduino\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\marce\onedrive\documentos\visual studio 2010\Projects\SerialArduino\SerialArduino\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\marce\onedrive\documentos\visual studio 2010\Projects\SerialArduino\SerialArduino\obj\x86\Debug\SerialArduino.vbproj.GenerateResource.Cache
+C:\Users\marce\onedrive\documentos\visual studio 2010\Projects\SerialArduino\SerialArduino\obj\x86\Debug\SerialArduino.exe
+C:\Users\marce\onedrive\documentos\visual studio 2010\Projects\SerialArduino\SerialArduino\obj\x86\Debug\SerialArduino.xml
+C:\Users\marce\onedrive\documentos\visual studio 2010\Projects\SerialArduino\SerialArduino\obj\x86\Debug\SerialArduino.pdb
