@@ -9,4 +9,4 @@ Projetos básicos usando o Arduino Uno
 
 04 - Serial TX RX --> envia e recebe dados do computador para o controle de um LED. A pasta SerialArduino possui o programa fonte em VB.Net para a comunição com o Arduino.
 
-05 - Circuito Serial --> análise da forma de onda de carga e descarga do capacitor em um circuito RC usando o Arduino.
+05 - Circuito RC --> análise da forma de onda de carga e descarga do capacitor em um circuito RC usando o Arduino.
