@@ -1,0 +1,15 @@
+
+T = tempo para o capacitor adquirir 63,2% da carga final
+
+T = R . C
+
+T = 1000 x 0,0001 = 0,1 s
+
+
+
+
+
+Cálculo do capacitor pelo Arduino:
+
+C = T / R  --> onde T é o tempo para a tensão do capacitor atingir
+	       63,2% de 5 Volts, ou seja, 3,16 Volts. 
