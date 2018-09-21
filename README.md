@@ -11,4 +11,6 @@ Projetos básicos usando o Arduino Uno
 
 05 - Circuito RC --> análise da forma de onda de carga e descarga do capacitor em um circuito RC usando o Arduino.
 
-06 - Serv0 --> limitação do ângulo de atuação de um servo motor.
+06 - Servo --> limitação do ângulo de atuação de um servo motor.
+
+07 - Braço Robótico --> movimentação de um braço robótico com quatro micros servos usando potenciômetros.
