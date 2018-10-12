@@ -15,4 +15,4 @@ Projetos básicos usando o Arduino Uno
 
 07 - Braço Robótico --> movimentação de um braço robótico com quatro micros servos usando potenciômetros.
 
-08 - Carrinho controle remoto --> controle de um carrinho usando bluetooth.
+08 - Carrinho --> controle remoto de um carrinho usando bluetooth.
