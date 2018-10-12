@@ -14,3 +14,5 @@ Projetos básicos usando o Arduino Uno
 06 - Servo --> limitação do ângulo de atuação de um servo motor.
 
 07 - Braço Robótico --> movimentação de um braço robótico com quatro micros servos usando potenciômetros.
+
+08 - Carrinho controle remoto --> controle de um carrinho usando bluetooth.
