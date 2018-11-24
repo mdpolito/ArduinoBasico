@@ -16,3 +16,5 @@ Projetos básicos usando o Arduino Uno
 07 - Braço Robótico --> movimentação de um braço robótico com quatro micros servos usando potenciômetros.
 
 08 - Carrinho --> controle remoto de um carrinho usando bluetooth.
+
+09 - Web Server --> Uso da placa Ethernet Shield como servidor para informar o estado de um LED.
