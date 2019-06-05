@@ -1,5 +1,5 @@
 # ArduinoBasico
-Projetos básicos usando o Arduino Uno
+Projetos básicos usando Arduino
 
 01 - Leitura Digital --> faz a leitura de uma porta digital e transmite o valor lido através da serial. É necessário usar o monitor serial para verificar o dado transmitido pelo Arduino.
 
@@ -18,3 +18,5 @@ Projetos básicos usando o Arduino Uno
 08 - Carrinho --> controle remoto de um carrinho usando bluetooth.
 
 09 - Web Server --> Uso da placa Ethernet Shield como servidor para informar o estado de um LED.
+
+10 - Jogo de Leds --> Leds que piscam de acordo com uma sequência de programação criando um efeito visual interessante.
